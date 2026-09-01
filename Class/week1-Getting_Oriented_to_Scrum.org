@@ -1,0 +1,35 @@
+* [#A] Week 1 - Getting Orientated to Scrum and CP3405               :ATTACH:
+DEADLINE: <2026-09-14 Mon>
+:PROPERTIES:
+:ID:       e170e307-e8cd-4ef1-bd0c-3e0527b5c192
+:END:
+
+** Scrum Learning Notebook
+1. Knowledge Check - Based on your previous studies or experience what factors contribute
+   to the diffuculty in planning and successfully delivering software projects?
+
+   **Doing a bit everyday**
+   Even if its writing a little bit of code, maybe a line or two, still keeps it in the
+   forefront of my mind.
+   Even if i dont feel like doing any at all, just thinking of it can change my mind
+   and it goes from not feeling like doing anything at all today too implementing
+   whatever prompted the session.
+
+   **External Reasearch**
+   Reading about it after the sessions, looking at others examples and even logging my feelings after the fact provide an outside perspective of the problem at hand.
+   Blogs and medium articles have provided countless bursts of inspiration, especially reading not near my computer,unable to do anything but note down the Euraka moment.
+   
+   **Enjoyable Working Environment**
+   I had been using Neovim, an fork of vim. I got quite adept at using the special keymaps and commands. But i have just absolutely fell in love with Emacs. Its a labrinthym, storied historical, monolithic program with just so much about it.
+   I have not even scratched the service of what it is capable of. I spend my nights, exploring and messing around.
+
+** Ai Conversation Reflection
+Work through AI conversations. Reflect on;
+- *In what ways did this conversation advance your understanding of the topic?*
+Focus on what suprised you, challenged assumptions, or helped you think differently?
+  
+** Micro Reflection (Gibbs-style)
+Capture one early learning experience from this week.
+Few sentences using a simplified Gibbs Cycle (What happened, what noticed or learned, what might do differently) is sufficent.
+
+

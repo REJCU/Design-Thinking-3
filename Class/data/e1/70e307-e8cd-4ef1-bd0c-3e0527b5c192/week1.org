@@ -1,0 +1,16 @@
+* Week 1 - Getting Orientated to Scrum and CP3405
+
+** Scrum Learning Notebook
+1. Knowledge Check - Based on your previous studies or experience what factors contribute
+   to the diffuculty in planning and successfully delivering software projects?
+
+   **Doing a bit everyday**
+   Even if its writing a little bit of code, maybe a line or two, still keeps it in the
+   forefront of my mind.
+   Even if i dont feel like doing any at all, just thinking of it can change my mind
+   and it goes from not feeling like doing anything at all today too implementing
+   whatever prompted the session.
+
+   **External Reasearch**
+   Reading about it after the sessions, looking at others examples and even logging my feelings
+   after the fact provide 
