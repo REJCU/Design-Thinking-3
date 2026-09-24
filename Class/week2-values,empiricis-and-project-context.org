@@ -2,11 +2,38 @@
 
 1. How do the Scrum pillars (transparancy, inspection and adaption) support learning and decision making in uncertain projects?
 
+ - Transparancy
+All parties (team-members, stake-holders) involved in are well-informed of the progress of the project. Having all parties in sync allows empowers all team members/stakeholders to actively participate in the development proccess and contribute valuable information and have it be appreciated. Under these conditions, mutual trust and the courage to speak about positive and negative updates will flourish.
+
+  - Inspection
+Consistent and frequent inspection of the projects advancement adn the product itself by all party members.
+
+• Continuous Improvement: Inspection drives ongoing enhancements in Scrum. 
+• Informed Adjustments: Regular checks enable teams to make smart and informed process
+ adjustments. 
+• Iterative Development: The iterative nature of Scrum ensures that each inspection
+ influences the next sprint. 
+• Incremental Enhancements: Inspection points lead to step-by-step improvements in the
+ development process.
+
+ - Adaption
+Coming after inspection, adaption allows teams to quickly respond to new stimuli to adjust their strategies to leverage the newfound insights. 
+
+• Sprint Backlog Flexibility: In the midst of a sprint, if new insights or changes arise,
+ the team has the flexibility to adjust the sprint backlog accordingly. 
+• Daily Stand-up Flexibility: In these meetings, team members can adjust their plans for
+ the day, incorporating insights from progress and addressing any encountered impediments.
+• Sprint Review Insights: Input collected during the sprint review informs adjustments for
+ subsequent sprints. 
+
 
 2. 
 - Identify one Scrum value (focus, openness, courage, commitment, or respect).
 - Describe how this value could influence behaviour in a student project team.
 - Connect your answer to either a past team experience or your current CP3405 team formation.
+
+
+
 
 3. What did the conversation help you notice about scrum values, teamwork, or decision making?
 
