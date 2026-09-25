@@ -13,23 +13,37 @@ DEADLINE: <2026-09-14 Mon>
    forefront of my mind.
    Even if i dont feel like doing any at all, just thinking of it can change my mind
    and it goes from not feeling like doing anything at all today too implementing
-   whatever prompted the session.
+   whatever inspired the session.
 
    **External Reasearch**
    Reading about it after the sessions, looking at others examples and even logging my feelings after the fact provide an outside perspective of the problem at hand.
    Blogs and medium articles have provided countless bursts of inspiration, especially reading not near my computer,unable to do anything but note down the Euraka moment.
    
    **Enjoyable Working Environment**
-   I had been using Neovim, an fork of vim. I got quite adept at using the special keymaps and commands. But i have just absolutely fell in love with Emacs. Its a labrinthym, storied historical, monolithic program with just so much about it.
-   I have not even scratched the service of what it is capable of. I spend my nights, exploring and messing around.
+   Clean desk, near a window with the breeze flowing through.
+
+   **Knowing if you are asking the right questions**
+   Not just for the specific problems that may arise during a coding session but sometimes of the project itself.
+
+   **Defined end goal**
+   It's great to have a clear, concrete vision of what the project should appear as, however that contains it's own risks where the tunnel vision might cloud out potential avenues     that might be more enriching.
+
+   **User's**
+   It's hard to consider all of the potential users of the product. What they want to acheive out of the product, their skill level, patience, time and their approach. It's hard to think of all the possible edge cases of all the users. 
+   
 
 ** Ai Conversation Reflection
 Work through AI conversations. Reflect on;
-- *In what ways did this conversation advance your understanding of the topic?*
+*what ways did this conversation advance your understanding of the topic?*
 Focus on what suprised you, challenged assumptions, or helped you think differently?
-  
+
+
+
+
 ** Micro Reflection (Gibbs-style)
 Capture one early learning experience from this week.
 Few sentences using a simplified Gibbs Cycle (What happened, what noticed or learned, what might do differently) is sufficent.
 
+
+** Class
 
