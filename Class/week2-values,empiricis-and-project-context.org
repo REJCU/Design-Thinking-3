@@ -1,48 +1,95 @@
 * Values, Empiricism, and Early Application
 
-1. How do the Scrum pillars (transparancy, inspection and adaption) support learning and decision making in uncertain projects?
+** 1. How do the Scrum pillars (transparancy, inspection and adaption) support learning and decision making in uncertain projects?
 
- - Transparancy
+*** Transparency
 All parties (team-members, stake-holders) involved in are well-informed of the progress of the project. Having all parties in sync allows empowers all team members/stakeholders to actively participate in the development proccess and contribute valuable information and have it be appreciated. Under these conditions, mutual trust and the courage to speak about positive and negative updates will flourish.
 
-  - Inspection
-Consistent and frequent inspection of the projects advancement adn the product itself by all party members.
+***  Inspection
+Consistent and frequent inspection of the projects advancement and the product itself by all party members.
 
 • Continuous Improvement: Inspection drives ongoing enhancements in Scrum. 
+
 • Informed Adjustments: Regular checks enable teams to make smart and informed process
  adjustments. 
+
 • Iterative Development: The iterative nature of Scrum ensures that each inspection
  influences the next sprint. 
+
 • Incremental Enhancements: Inspection points lead to step-by-step improvements in the
  development process.
 
- - Adaption
+*** Adaption
 Coming after inspection, adaption allows teams to quickly respond to new stimuli to adjust their strategies to leverage the newfound insights. 
 
 • Sprint Backlog Flexibility: In the midst of a sprint, if new insights or changes arise,
- the team has the flexibility to adjust the sprint backlog accordingly. 
+ the team has the flexibility to adjust the sprint backlog accordingly.
+ 
 • Daily Stand-up Flexibility: In these meetings, team members can adjust their plans for
  the day, incorporating insights from progress and addressing any encountered impediments.
+
 • Sprint Review Insights: Input collected during the sprint review informs adjustments for
- subsequent sprints. 
+ sprints. 
 
 
-2. 
-- Identify one Scrum value (focus, openness, courage, commitment, or respect).
-- Describe how this value could influence behaviour in a student project team.
-- Connect your answer to either a past team experience or your current CP3405 team formation.
+** 2. 
+*Identify one Scrum value (focus, openness, courage, commitment, or respect).*
+
+*Describe how this value could influence behaviour in a student project team.*
+
+*Connect your answer to either a past team experience or your current CP3405 team formation.*
 
 Commitment:
+The effect would be on the ability to effectively frame what commitment means in the sense of a scrum. It is not the full guarantee of the completion of every task or the rigid adherence to original plans regardless of what introspection reveals but the promise of continuous support to teammates and the commitment to maintaining quality standards.
+This affects the day to day experience felt by all team members. Having even a few dedicated members, hopefully those in the leadership roles should inspire the rest of the team to have dedication to the process and ultimately, to the products success.
+Commitment to success; Includes both individual achievements and the teams overall success. When everyone is commited to the teams goals, trust and the teams standards should rise.
+Commitment to continuous improvement; daily improvement makes it easier to pivot or change direction when new information and feedback is recieved.
+
+During the sprint for the online Design Thinking 2, both sessions lasted well into the night. All  team members were  exhuasted by the end of the first day. All team members were doing design thinking 2, so no expertise could be given by people doing design thinking 3. However they were moments of individual commitment shown by all team members that inspired us to maintain the quality standards we aimed to achieve. 
 
 
 
+** 3. What did the conversation help you notice about scrum values, teamwork, or decision making?
+The key insight would be how agile differently shapes what the final product will look like and how it differs from a plan-based development. 
 
-3. What did the conversation help you notice about scrum values, teamwork, or decision making?
+Agile development allows stakeholders to be more inclined to contribute continuously through the project, it allows for more active contribution to what the final product will look like. This is because of the continuous discussion throughout the sprints, able to cleanly change priorities for when new information comes in. This flexibility allows the final product/solution to be a perfect fit for the stakeholders. 
 
-4. capture one meaningful experience or observation (Gibbs-Style)
+Individual ownership of the task is just as important as the overall team commitment. When people feel that their own contribution is valued by other team members, their own personal morale and outlook will improve, providing a cascading effect on the other members of the team. There is no best way to work in a team full of very different individuals.
+
+
+have time to review artifacts and view it in a balanced lens. Some approaches taken, recorded and formed into artifacts could be harshly critiqued when they might be a possible answer to a question/problem further along the design process. 
+
+Structure your strategies around the group even if you like a particular way of doing it than an other. An anonomous sharing of ideas could reduce the individual ownership for certain people, reducing the overall quality of the final product/solution.
+
+
+** 4. capture one meaningful experience or observation (Gibbs-Style)
    - forming or finalising the team
    - discussing values or accountability in class
    - noticing tension, uncertainty or alignment in teamwork.
 
+**** 1. Description
+When discussing the assignment, we focused too much on the delivery mechanism (game/website) than the overall message we wanted to convey. A team member had a plan-based focus on their approach, trying to form the product shape before considering what we were trying to achieve.  
      
 
+**** 2. Feelings
+I also felt the nervousness of not having an absolute to cling onto. To not have a concrete idea and to still not feel like anything was achieved in that session felt demoralising as that early morale is compounding. It also felt frustrating to constantly reiterate to myself and team-members to not form the what the product will look like but to first find the meaning behind it.
+
+
+**** 3. Evaluation
+What worked well was the wealth of different discussion and our sharing of the different development experiences we have had. Sharing of both successful and unsuccessful endeavours without fear of judgement was refreshing.  
+
+What didn't work well was the constant reiterating of trying to focus on what we are trying to achieve and not on what we are trying to build.
+
+
+**** 4. Analysis
+We have worked as a team before on previous assignments, so sharing what we have achieved and catching up was easier than if we were all new to each other. We also knew how each other liked to work. This was compounded by our shared success and failures from previously working with each other.
+
+A theory about the negative aspect of the constant reiteration, would be our approaches towards previous software building. For most of our own software building, in University or out of it, there has always been a great focus on the technical application and what hard skills we learn from it, rather than finding out and filling in a problem.
+
+
+**** 5. Conclusion
+The key lesson was to consider the different programming/development journeys we have undertaken to reach this current point. Despite similar course content, our approaches and priorities differ greatly. Taking consideration and covering our weaknesses is integral for our success.
+
+
+**** 6. Action Plan
+To acknowledge our different journeys, a deep dive into the individual projects , coded or not and an explanation of our approaches would be an effective learning opportunity. This could help down the line when revisting the artifacts generated after each sprint.
