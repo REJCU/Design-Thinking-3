@@ -1,4 +1,4 @@
-* Week 3 - Roles, teamwork and early scrum practice
+* Weekg 3 - Roles, teamwork and early scrum practice
 
 ** 3. AI conversation - What question, uncertainty or insight did this conversation help clarify for you about scrum roles or teamwork?
 
@@ -8,13 +8,22 @@ Insight - the sprint pilot has lower stakes involved in the whole proccess, this
 
 Despite the lower stakes, it can still be hard for people to experiment with new methods. Ice-breakers and the such can work for getting people out of their comfort room but can be re-hearsed. So changing it to something out of left field like kaoroke, which could be very uncomfortable and will be completely new proccess for some could instill a sense of exploration and broaden people's horizon.
 
-*** Chat 2 - Sprint planning - Roleplay
+*** Chat 2 - Sprint planning - Roleplay - one planning practice that i will apply to my team.
+"Definition of Done" 
+Shared set of criteria determined among the group/stakeholders of when a product or backlog item is done or completed. 
 
+Shared understanding of what the final product will look like to all parties.
 
+Start a collobaritive chat, highlighting the key parts and forming them into actionable statements. Stops potential confusion of what needs to be delivered and when. 
 
+*** Inspect and adapt
+
+Checking progress regularly to see if it's heading to the sprint goal and adjusting accourdingely if things are not working or new info pops up.
 
 
 ** 4. Micro Reflection - Gibbs-Style
+
+
 
 
 ** Class notes
