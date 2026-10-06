@@ -1,0 +1,24 @@
+* Week 4 – Living the Scrum Sprint Pilot
+
+** Knowledge Check – Scrum artefacts and events
+Why does Scrum place so much emphasis on artefacts and events rather than detailed upfront plans?
+
+
+
+** Application Task – Sprint Planning in practice
+
+*Describe one decision your team made during Sprint Planning (for example, selecting a Sprint Goal, choosing backlog items, or discussing estimates). Explain what uncertainty this decision helped surface or manage. Focus on what you learned from the process rather than whether the decision was “right”.*
+
+
+** AI Conversation Reflection
+What idea, tension, or question did this conversation raise for you about estimation, Sprint Planning, or learning in Scrum?
+Your reflection should focus on how your thinking shifted or deepened, not on reproducing AI-generated content.
+
+
+
+** Micro-reflection
+
+running or participating in your first Sprint Planning event
+negotiating a Sprint Goal under uncertainty
+noticing disagreement or different assumptions during estimation
+feeling unsure about how much planning is “enough”
