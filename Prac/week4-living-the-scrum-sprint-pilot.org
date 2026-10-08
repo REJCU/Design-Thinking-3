@@ -1,8 +1,14 @@
 * Week 4 – Living the Scrum Sprint Pilot
 
 ** Knowledge Check – Scrum artefacts and events
-Why does Scrum place so much emphasis on artefacts and events rather than detailed upfront plans?
+*** Why does Scrum place so much emphasis on artefacts and events rather than detailed upfront plans?
+Detailed upfront plans are rigid, trying to force a future/product without taking into consideration of the ever-changing circumstances around the users, business and the whole ecosystem. Plans also are more effective for subject experts that may or may not be present, guiding the team with their expertise. 
 
+On the other hand, past artefacts and events emphasise retrospection, allowing teams to more easily respond to new information, changing the product to follow along with the changing context of the industry and stakeholders. 
+
+By understanding and effectively utilising Scrum artifacts and events, teams can create a
+rhythm of productive work, regular feedback, and continuous improvement. This leads to better
+products, happier customers, and more engaged teams.
 
 
 ** Application Task – Sprint Planning in practice
@@ -10,10 +16,16 @@ Why does Scrum place so much emphasis on artefacts and events rather than detail
 *Describe one decision your team made during Sprint Planning (for example, selecting a Sprint Goal, choosing backlog items, or discussing estimates). Explain what uncertainty this decision helped surface or manage. Focus on what you learned from the process rather than whether the decision was “right”.*
 
 
+
 ** AI Conversation Reflection
 What idea, tension, or question did this conversation raise for you about estimation, Sprint Planning, or learning in Scrum?
 Your reflection should focus on how your thinking shifted or deepened, not on reproducing AI-generated content.
 
+I tend to overfocus on one particular stakeholder (sme, maybe one particular user than another). Outlining tasks that meet both their needs is something that I should take account of. It specifically mentioned for the next 24 hours which is nice for a small scope leaving a managable artefact to analyse after the fact. 
+For sprint planning, managing people and pairing/teaming up the people depending on what their particular skills can cover. Being careful to not group people familiar with each other but also to rotate. Effective rotation spreads the empathy and expertise around the group. 
+Externalise as much of the troublesome part out as much as possible, throwing the problem out to other teammates for them to digest and gain new perspectives. 
+Deferral of tasks to the next sprint can be an option for the intimidating tasks that seem to chip away slowly. This could easily be a backlog item for the sprint members.
+Treating estimations as flexible goals rather than harddeadlines depending on the needs and wants of the stakeholders.
 
 
 ** Micro-reflection
@@ -22,3 +34,5 @@ running or participating in your first Sprint Planning event
 negotiating a Sprint Goal under uncertainty
 noticing disagreement or different assumptions during estimation
 feeling unsure about how much planning is “enough”
+
+
